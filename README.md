@@ -3,7 +3,7 @@
   src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGh6dW83enl5azljaTg4M3k1aHl1eW92d2t4bzN4N3Jzc3BqZDhocCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" />
 </picture><br><br>
 
-# 👋 Hi, I'm Anuj Kumar
+# 👋 Hi, my name is Anuj kumar
 
 🎓 B.Tech CSE Student | 💻 Aspiring Software Developer
 
